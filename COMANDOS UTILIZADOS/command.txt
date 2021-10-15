@@ -1,0 +1,1 @@
+El comando cp en ingles significa (copy) y se utiliza para copiar ficheros y directorios
